@@ -11,3 +11,7 @@ int main(){
   return 0;
 }
 ```
+- [] Do this
+- [] No
+- [] Please
+- [] OK
